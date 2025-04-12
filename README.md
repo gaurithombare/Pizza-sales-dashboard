@@ -52,7 +52,7 @@ The Power BI dashboard presents key performance indicators (KPIs) with clear vis
 
 ## 👨‍💻 Author:
 **Gauri Thombare**  
-[LinkedIn Profile]([https://www.linkedin.com/in/gaurithombare](https://www.linkedin.com/in/surekha-thombare-928b90220/))  
+[LinkedIn Profile]([https://www.linkedin.com/in/gaurithombare])  
 [GitHub Profile](https://github.com/gaurithombare)
 
 ---
